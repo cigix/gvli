@@ -1,6 +1,10 @@
 [package]
 name = "gvli"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+description = "Generalized variable-length integers"
+repository = "https://github.com/cigix/gvli"
+license = "GPL-3.0-or-later"
+keywords = ["variable-length", "RFC3492", "Punycode", "Bootstring"]
 
 [dependencies]
